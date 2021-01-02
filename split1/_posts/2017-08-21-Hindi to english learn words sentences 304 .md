@@ -17,3 +17,6 @@ How to learn English words and sentences for Hindi speakers
  
 {% include youtubePlayer.html id=page.youtubeId %}
  
+ 
+[Next]({{ site.baseurl }}{% link  split1/_posts/2015-12-30-Hindi to english learn words sentences 904 .md%})
+ 
